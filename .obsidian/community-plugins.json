@@ -1,5 +1,23 @@
 [
   "obsidian-excalidraw-plugin",
   "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "obsidian-tasks-plugin",
+  "obsidian-icon-folder",
+  "homepage",
+  "obsidian-annotator",
+  "better-word-count",
+  "obsidian-spaced-repetition",
+  "oz-image-plugin",
+  "obsidian-hover-editor",
+  "obsidian-importer",
+  "settings-search",
+  "obsidian-completr",
+  "templater-obsidian",
+  "tag-wrangler",
+  "obsidian-smart-typography",
+  "obsidian-text-format",
+  "recent-files-obsidian",
+  "url-into-selection"
 ]
