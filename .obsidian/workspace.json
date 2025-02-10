@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Daily/neetcodes/arrays & hashing/003.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "003"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -99,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "6 - Daily/neetcodes/arrays & hashing/003.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 003"
             }
           },
           {
@@ -118,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "6 - Daily/neetcodes/arrays & hashing/003.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 003"
             }
           },
           {
@@ -133,7 +138,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -145,10 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - Maps Of Content/test.md"
+                "file": "6 - Daily/neetcodes/arrays & hashing/003.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline of 003"
             }
           },
           {
@@ -200,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 631.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,9 +232,20 @@
   },
   "active": "8b7975ad363b3a5b",
   "lastOpenFiles": [
+    "6 - Daily/neetcodes/arrays & hashing/002.md",
+    "6 - Daily/neetcodes/arrays & hashing/003.md",
+    "6 - Daily/neetcodes/arrays & hashing/001.md",
+    "6 - Daily/neetcodes/arrays & hashing",
+    "8 - Templates/template-neet.md",
+    "6 - Daily/neetcodes/Contains Duplicate.md",
+    "8 - Templates",
+    "6 - Daily/test 1 1 1.md",
+    "6 - Daily/neetcodes",
+    "1 - Projects/code-assistant/Research.md",
+    "1 - Projects/code-assistant",
+    "3 - Resources/Untitled",
     "0 - Maps Of Content/test.md",
     "7 - Archives/test 1 1 1 1.md",
-    "6 - Daily/test 1 1 1.md",
     "5 - Fleeting/test 1 1.md",
     "4 - Permanent/test 1.md",
     "3 - Resources/test 1.md",
@@ -236,9 +257,6 @@
     "6 - Daily",
     "0 - Maps Of Content",
     "7 - Archives",
-    "5 - Fleeting",
-    "4 - Permanent",
-    "1 - Projects",
     "2025-01-27.md"
   ]
 }
