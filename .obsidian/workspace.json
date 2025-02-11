@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Daily/neetcodes/arrays & hashing/004.md",
+                "file": "6 - Daily/neetcodes/arrays & hashing/005.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "004"
+              "title": "005"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:<difficulty>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,10 +231,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8b7975ad363b3a5b",
   "lastOpenFiles": [
-    "6 - Daily/neetcodes/arrays & hashing/003.md",
+    "6 - Daily/neetcodes/arrays & hashing/005.md",
     "6 - Daily/neetcodes/arrays & hashing/004.md",
+    "6 - Daily/neetcodes/arrays & hashing/003.md",
     "6 - Daily/neetcodes/arrays & hashing/002.md",
     "6 - Daily/neetcodes/arrays & hashing/001.md",
     "6 - Daily/neetcodes/arrays & hashing",
