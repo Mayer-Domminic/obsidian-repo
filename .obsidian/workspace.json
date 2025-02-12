@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Daily/neetcodes/arrays & hashing/008.md",
+                "file": "6 - Daily/neetcodes/arrays & hashing/009.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008"
+              "title": "009"
             }
           }
         ]
@@ -230,9 +230,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8b7975ad363b3a5b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "6 - Daily/neetcodes/arrays & hashing/008.md",
+    "6 - Daily/neetcodes/arrays & hashing/009.md",
     "6 - Daily/neetcodes/arrays & hashing/007.md",
     "6 - Daily/neetcodes/arrays & hashing/006.md",
     "6 - Daily/neetcodes/arrays & hashing/005.md",
