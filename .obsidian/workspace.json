@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Daily/neetcodes/two pointers/002.md",
+                "file": "6 - Daily/neetcodes/two pointers/003.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002"
+              "title": "003"
             }
           }
         ]
@@ -232,18 +232,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "6 - Daily/neetcodes/two pointers/001.md",
     "6 - Daily/neetcodes/two pointers/002.md",
+    "6 - Daily/neetcodes/two pointers/003.md",
+    "6 - Daily/neetcodes/arrays & hashing/004.md",
+    "6 - Daily/neetcodes/two pointers/001.md",
+    "6 - Daily/neetcodes/arrays & hashing/002.md",
+    "6 - Daily/neetcodes/arrays & hashing/001.md",
     "6 - Daily/neetcodes/two pointers",
     "6 - Daily/neetcodes/arrays & hashing/009.md",
     "6 - Daily/neetcodes/arrays & hashing/008.md",
     "6 - Daily/neetcodes/arrays & hashing/007.md",
     "6 - Daily/neetcodes/arrays & hashing/006.md",
     "6 - Daily/neetcodes/arrays & hashing/005.md",
-    "6 - Daily/neetcodes/arrays & hashing/004.md",
     "6 - Daily/neetcodes/arrays & hashing/003.md",
-    "6 - Daily/neetcodes/arrays & hashing/002.md",
-    "6 - Daily/neetcodes/arrays & hashing/001.md",
     "6 - Daily/neetcodes/arrays & hashing",
     "8 - Templates/template-neet.md",
     "6 - Daily/neetcodes/Contains Duplicate.md",
