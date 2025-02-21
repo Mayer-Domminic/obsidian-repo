@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Daily/neetcodes/arrays & hashing/009.md",
+                "file": "6 - Daily/neetcodes/two pointers/001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "009"
+              "title": "001"
             }
           }
         ]
@@ -230,10 +230,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8b7975ad363b3a5b",
   "lastOpenFiles": [
-    "6 - Daily/neetcodes/arrays & hashing/008.md",
+    "6 - Daily/neetcodes/two pointers/001.md",
+    "6 - Daily/neetcodes/two pointers",
     "6 - Daily/neetcodes/arrays & hashing/009.md",
+    "6 - Daily/neetcodes/arrays & hashing/008.md",
     "6 - Daily/neetcodes/arrays & hashing/007.md",
     "6 - Daily/neetcodes/arrays & hashing/006.md",
     "6 - Daily/neetcodes/arrays & hashing/005.md",
@@ -262,7 +264,6 @@
     "3 - Resources",
     "6 - Daily",
     "0 - Maps Of Content",
-    "7 - Archives",
     "2025-01-27.md"
   ]
 }
